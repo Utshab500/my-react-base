@@ -1,3 +1,9 @@
+/**
+ * @description - This is an example of Class Component in a react app.
+ *  Also to add little touch of styling using bootstrap css framework.
+ * 
+ * @author - Utshab
+ */
 import React, { Component } from 'react';
 
 // Importing CSS framework Bootstrap
