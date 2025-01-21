@@ -1,0 +1,4 @@
+/* Defining CSS variable */
+:root {
+    --primary: hotpink !important;
+  }
