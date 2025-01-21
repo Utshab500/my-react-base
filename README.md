@@ -6,10 +6,15 @@ Each folder in this repo is a small isolated `react-app` and considered as an ex
 
 # How to work in this repo?
 Since each folder in this repo is a small `react-app`, hence we can get started with the following command
+### Using Create React App
 ```bash
-npx create-react-app < folder-name >
+npx create-react-app <folder-name>
 ```
-### Points to note
+### Using Vite
+```bash
+npm create vite@latest <folder-name>
+```
+## Points to note
 - Remove `.git` folder in the newly created `react-app` as `my-react-base` is the parent <i>git</i> repository.
 
 ## How to develop one example?
